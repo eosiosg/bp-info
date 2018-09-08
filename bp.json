@@ -5,9 +5,9 @@
       "website": "https://eosio.sg",
       "email":"deadlock@eosio.sg",
       "branding":{
-        "logo_256":"https://github.com/eosiosg/eos-bp-profile/blob/eosio.sg/images/logo-eosiosg.png",
-        "logo_1024": "https://github.com/eosiosg/eos-bp-profile/blob/eosio.sg/images/logo-eosiosg.png",
-        "logo_svg": "https://github.com/eosiosg/eos-bp-profile/blob/eosio.sg/images/logo-eosiosg.png"
+        "logo_256":"https://github.com/eosiosg/bp-info/blob/master/eosiosg_256.png",
+        "logo_1024": "",
+        "logo_svg": ""
       },
       "location": {
         "name": "Singapore",
