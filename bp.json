@@ -1,31 +1,31 @@
 {
   "producer_account_name": "eosiosg11111",
   "org": {
-      "candidate_name": "EOSIO.SG",
-      "website": "https://eosio.sg",
-      "email":"deadlock@eosio.sg",
-      "branding":{
-        "logo_256":"http://images.eosio.sg/EOSIOSG_256.png",
-        "logo_1024": "http://images.eosio.sg/EOSIOSG_1024.png",
-        "logo_svg": "http://images.eosio.sg/EOSIOSG.svg"
-      },
-      "location": {
-        "name": "Singapore",
-        "country": "SG",
-        "latitude": 1.290270,
-        "longitude": 103.851959
-      },
-      "social": {
-        "steemit": "eosiosg",
-        "twitter": "eosiosg",
-        "facebook": "eosiosg-168790343770758",
-        "github":"eosiosg",
-        "telegram": "eosiosg"
-      }
+    "candidate_name": "EOSIO.SG",
+    "website": "https://eosio.sg",
+    "email":"deadlock@eosio.sg",
+    "branding":{
+      "logo_256":"https://image.eosio.sg/EOSIOSG_256.png",
+      "logo_1024": "https://image.eosio.sg/EOSIOSG_1024.png",
+      "logo_svg": "https://image.eosio.sg/EOSIOSG.svg"
+    },
+    "location": {
+      "name": "Singapore",
+      "country": "SG",
+      "latitude": 1.290270,
+      "longitude": 103.851959
+    },
+    "social": {
+      "steemit": "eosiosg",
+      "twitter": "eosiosg",
+      "facebook": "eosiosg-168790343770758",
+      "github":"eosiosg",
+      "telegram": "eosiosg"
+    }
   },
   "nodes": [
     {
-       "location": {
+      "location": {
         "name": "Taiwan",
         "country": "TW",
         "latitude": 25.105497,
@@ -36,7 +36,7 @@
       "ssl_endpoint": "https://mainnet.eosio.sg"
     },
     {
-       "location": {
+      "location": {
         "name": "Taiwan",
         "country": "TW",
         "latitude": 25.105497,
@@ -52,7 +52,7 @@
         "latitude": 1.290270,
         "longitude": 103.851959
       },
-       "node_type": "producer"
+      "node_type": "producer"
     }
   ]
-} 
+}
